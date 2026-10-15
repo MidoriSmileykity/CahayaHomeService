@@ -8,10 +8,10 @@
  *    jika tidak ingin dipublikasikan.
  */
 const SITE_CONFIG = {
-  whatsapp: "", // Contoh: "6281234567890"
-  phone: "",    // Contoh: "+6281234567890"
-  address: "",  // Contoh: "Nama jalan, kelurahan, kecamatan, kota, provinsi"
-  mapUrl: ""    // Contoh: "https://maps.google.com/?q=..."
+  whatsapp: "6288973494621", // Contoh: "6281234567890"
+  phone: "6288973494621",    // Contoh: "+6281234567890"
+  address: "Pesona Curug Residence, Curug, Gunung Sindur, Kabupaten Bogor, Jawa Barat 16340",  // Contoh: "Nama jalan, kelurahan, kecamatan, kota, provinsi"
+  mapUrl: "https://maps.app.goo.gl/qK3U2znH3t3dsGvL7"    // Contoh: "https://maps.google.com/?q=..."
 };
 
 document.addEventListener("DOMContentLoaded", () => {
